@@ -37,8 +37,9 @@ import {
 } from "@nextui-org/react";
 import { FaArrowRightLong } from "react-icons/fa6"
 import { TailSpin } from "react-loader-spinner"
-
-
+import ValidacaoModal from "@/components/modals/ValidacaoModal";
+import ConfirmacaoModal from "@/components/modals/ConfirmacaoModal";
+import { formataSaldo } from "@/constants/modules";
 // Atualize a interface para incluir as propriedades dinâmicas usadas no simulador
 interface IDeposito {
   n_idtipodeposito: number;
@@ -57,22 +58,29 @@ export default function DepositosPage() {
   const [selectedDeposit, setSelectedDeposit] = useState<IDeposito | null>(null)
   const [isLoadingModal, setIsLoadingModal] = useState(false);
   const { isOpen, onOpen, onClose } = useDisclosure();
+  const [otp, setOtp] = useState("");
+   const [dadosForm, setDadosForm] = useState<depositoSchema>() 
+  const { isOpen: isOpen2, onOpen: onOpen2, onClose: onClose2 } = useDisclosure();
+  const { isOpen: isOpen3, onOpen: onOpen3, onClose: onClose3 } = useDisclosure();
+    const [isLoading, setIsLoading] = useState(false);
   const [resultadoSimulacao, setResultadoSimulacao] = useState({
     jurosBrutos: "0 Kz",
     retencao: "0 Kz",
     jurosLiquidos: "0 Kz",
     poupancaLiquida: "0 Kz"
   })
+ 
    const depositoSchema = z.object({
       valor: z.string(),
     });
       type depositoSchema = z.infer<typeof depositoSchema>;
-      const { register, handleSubmit } = useForm<depositoSchema>({
+      const { register, handleSubmit,watch } = useForm<depositoSchema>({
         resolver: zodResolver(depositoSchema),
       });
     
   // Novo estado para os depósitos da API
   const [depositos, setDepositos] = useState<IDeposito[]>([])
+  const montante = parseInt(watch("valor"));
 
   // Buscar os dados da API ao carregar o componente
   useEffect(() => {
@@ -99,13 +107,23 @@ export default function DepositosPage() {
     setSelectedDeposit(deposit);
   }, [modalidade, depositos]);
 
-    async function handledeposito(data: depositoSchema) {
+
+  async function confirmarDeposito(data: depositoSchema) {
+    setDadosForm(data);
+    onOpen2();
+  }
+    async function handledeposito(otp: string) {
       try {
+        if(otp.length <6) return;
+              setIsLoading(true);
+        
+               const result = await api.post(`/trasacao/verificacodigo`,{codigo2fa:otp})
+               console.log(result);
         setIsLoadingModal(true);
         const dataset = {
           idconta:conta.id,
           iddeposito:selectedDeposit?.n_idtipodeposito,
-          ...data,
+          ...dadosForm,
         };
   
         //console.log(dadoadd)
@@ -113,6 +131,8 @@ export default function DepositosPage() {
         const response = await api.post('/deposito/depositar', dataset);
   
         conta.setSaldo(Number(response.data.saldoactualizado));
+         onClose3();
+         onClose();
         toast.success(response.data.message, {
           action: {
             label: "Comprovativo",
@@ -300,7 +320,7 @@ export default function DepositosPage() {
             
               <ModalBody className="mt-0">
                
-                <form onSubmit={handleSubmit(handledeposito)}>
+                <form onSubmit={handleSubmit(confirmarDeposito)}>
 
                   <div className="input_field">
                     <label htmlFor="name">Produto </label>
@@ -386,6 +406,27 @@ export default function DepositosPage() {
           )}
         </ModalContent>
       </Modal>
+       <ConfirmacaoModal
+                    isOpen={isOpen2}
+                    onClose={onClose2}
+                    isLoading={isLoading}
+                    setIsLoading={setIsLoading}
+                    onOpen2={onOpen3}
+                    title="Confirme os dados do Deposito"
+                    dados={[
+                      {key:"Modadalidade", value:selectedDeposit?.t_nome || ""},
+                      {key:"Prazo", value:selectedDeposit?.n_prazo || ""},
+                      {key:"Montante a aplicar", value:`${formataSaldo(montante)} Kz`}
+                    ]}
+                  />
+                <ValidacaoModal
+                    isOpen={isOpen3}
+                    onClose={onClose3}
+                    otp={otp}
+                    setOtp={setOtp}
+                    isLoading={isLoading}
+                    handleFunction={handledeposito}
+                  />
     </div>
     </div>
   )

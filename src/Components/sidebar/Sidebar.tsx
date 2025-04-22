@@ -20,9 +20,16 @@ export default function Sidebar() {
   }
   const router=useRouter();
   async function terminarSessao() {
+
     await signOut({
       redirect:false
     })
+    if(localStorage.getItem('primeiroLogin')){
+      localStorage.removeItem('GuiaInicioE')
+      localStorage.removeItem('GuiaLevantamentosE')
+      localStorage.removeItem('GuiaTrasacaoeE')
+      localStorage.removeItem('primeiroLogin')
+    }
    router.replace('/login') 
   }
 

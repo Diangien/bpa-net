@@ -507,675 +507,225 @@
             "type": "node",
             "id": 2345154890,
             "lat": -8.9564565,
-            "lon": 13.1508573,
-            "tags": {
-                "addr:city": "Luanda",
-                "amenity": "bank",
-                "brand": "Banco Sol",
-                "brand:en": "Sol Bank",
-                "brand:pt": "Banco Sol",
-                "brand:wikidata": "Q62118744",
-                "name": "Banco Sol",
-                "name:de": "Sonnenbank",
-                "name:en": "Sun Bank",
-                "name:es": "Banco Sol",
-                "name:fr": "Banc Soleil",
-                "name:it": "Banca Sole",
-                "name:nl": "Zonnebank",
-                "name:pl": "Bank Słońca",
-                "name:pt": "Banco Sol",
-                "name:ru": "Солнечный Берег"
-            }
+            "lon": 13.1508573
         },
         {
             "type": "node",
             "id": 2351823862,
             "lat": -8.9706464,
-            "lon": 13.1356288,
-            "tags": {
-                "amenity": "bank",
-                "atm": "yes",
-                "name": "Banco de Poupança e Crédito (BPC)"
-            }
+            "lon": 13.1356288
         },
         {
             "type": "node",
             "id": 2354964509,
             "lat": -8.8188612,
-            "lon": 13.2385463,
-            "tags": {
-                "addr:city": "Luanda",
-                "amenity": "bank",
-                "atm": "yes",
-                "brand": "Banco de Fomento Angola",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:short": "BFA",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Developpement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)",
-                "short_name": "BFA"
-            }
+            "lon": 13.2385463
         },
         {
             "type": "node",
             "id": 2354964519,
             "lat": -8.8187701,
-            "lon": 13.2381577,
-            "tags": {
-                "addr:city": "Luanda",
-                "amenity": "bank",
-                "brand": "Banco Sol",
-                "brand:en": "Sol Bank",
-                "brand:pt": "Banco Sol",
-                "brand:wikidata": "Q62118744",
-                "name": "Banco Sol",
-                "name:de": "Sonnenbank",
-                "name:en": "Sun Bank",
-                "name:es": "Banco Sol",
-                "name:fr": "Banc Soleil",
-                "name:it": "Banca Sole",
-                "name:nl": "Zonnebank",
-                "name:pl": "Bank Słońca",
-                "name:pt": "Banco Sol",
-                "name:ru": "Солнечный Берег"
-            }
+            "lon": 13.2381577
+            
         },
         {
             "type": "node",
             "id": 2356962022,
             "lat": -8.8375162,
-            "lon": 13.237005,
-            "tags": {
-                "amenity": "bank",
-                "atm": "yes",
-                "name": "Banco Espírito Santo Angola (BESA)"
-            }
+            "lon": 13.237005
         },
         {
             "type": "node",
             "id": 2356964480,
             "lat": -8.8330802,
-            "lon": 13.240306,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Rua 1º de Agosto",
-                "amenity": "bank",
-                "atm": "yes",
-                "name": "Banco BIC Angola"
-            }
+            "lon": 13.240306
         },
         {
             "type": "node",
             "id": 2356964481,
             "lat": -8.8351467,
-            "lon": 13.2434986,
-            "tags": {
-                "amenity": "bank",
-                "atm": "yes",
-                "name": "Banco de Poupança e Crédito (BPC)"
-            }
+            "lon": 13.2434986
         },
         {
             "type": "node",
             "id": 2358225605,
             "lat": -8.8331669,
-            "lon": 13.2630626,
-            "tags": {
-                "amenity": "bank",
-                "brand": "Banco de Fomento Angola (BFA)",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola (BFA)",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Developpement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)"
-            }
+            "lon": 13.2630626
         },
         {
             "type": "node",
             "id": 2375121195,
             "lat": -8.8184653,
-            "lon": 13.2310324,
-            "tags": {
-                "amenity": "bank",
-                "atm": "yes",
-                "name": "Banco de Poupança e Crédito (BPC)"
-            }
+            "lon": 13.2310324
         },
         {
             "type": "node",
             "id": 2409461383,
             "lat": -8.825986,
-            "lon": 13.2549798,
-            "tags": {
-                "addr:city": "Luanda",
-                "amenity": "bank",
-                "name": "Banco Angolano de Investimento (BAI)"
-            }
+            "lon": 13.2549798
         },
         {
             "type": "node",
             "id": 2426586954,
             "lat": -8.8272325,
-            "lon": 13.2613952,
-            "tags": {
-                "addr:street": "Av. Hoji Ya Henda",
-                "amenity": "bank",
-                "atm": "yes",
-                "name": "Banco Angolano de Investimentos (BAI)"
-            }
+            "lon": 13.2613952
+            
         },
         {
             "type": "node",
             "id": 2426637949,
             "lat": -8.8246109,
-            "lon": 13.2556852,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Avenida Hoji Ya Henda (ex Avenida Brasil)",
-                "amenity": "bank",
-                "atm": "yes",
-                "brand": "Banco de Fomento Angola (BFA)",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola (BFA)",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Developpement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)"
-            }
+            "lon": 13.2556852
         },
         {
             "type": "node",
             "id": 2426712964,
             "lat": -8.8193334,
-            "lon": 13.2438646,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Avenida Rei Katyavala (ex Coronel Artur de Paiva)",
-                "amenity": "bank",
-                "brand": "Banco Sol",
-                "brand:en": "Sol Bank",
-                "brand:pt": "Banco Sol",
-                "brand:wikidata": "Q62118744",
-                "name": "Banco Sol",
-                "name:de": "Sonnenbank - Katyavala",
-                "name:en": "Sun Bank - Katyavala",
-                "name:es": "Banco Sol - Katyavala",
-                "name:fr": "Banc Soleil - Katyavala",
-                "name:it": "Banca Sole - Katyavala",
-                "name:nl": "Zonnebank - Katyavala",
-                "name:pl": "Bank Słońca - Katyavala",
-                "name:pt": "Banco Sol - Katyavala",
-                "name:ru": "Солнечный Берег - Катявала"
-            }
+            "lon": 13.2438646
         },
         {
             "type": "node",
             "id": 2482106167,
             "lat": -8.8387044,
-            "lon": 13.2513448,
-            "tags": {
-                "amenity": "bank",
-                "atm": "yes",
-                "name": "Banco Espírito Santo Angola (BESA)"
-            }
+            "lon": 13.2513448
         },
         {
             "type": "node",
             "id": 2496081764,
             "lat": -8.8248346,
-            "lon": 13.2239209,
-            "tags": {
-                "addr:city": "Luanda",
-                "amenity": "bank",
-                "atm": "yes",
-                "brand": "Banco de Fomento Angola (BFA)",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola (BFA)",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Developpement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)"
-            }
+            "lon": 13.2239209
         },
         {
             "type": "node",
             "id": 2555369415,
             "lat": -8.8157222,
-            "lon": 13.2419401,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Rua Cónego Manuel das Neves",
-                "alt_name": "BAI - Agencia Kinaxixi",
-                "amenity": "bank",
-                "atm": "yes",
-                "name": "Banco Angolano de Investimentos (BAI)"
-            }
+            "lon": 13.2419401
         },
         {
             "type": "node",
             "id": 2555369423,
             "lat": -8.8258311,
-            "lon": 13.2589033,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Avenida Hoji Ya Henda (ex Avenida Brasil)",
-                "amenity": "bank",
-                "atm": "yes",
-                "brand": "Banco Sol",
-                "brand:en": "Sol Bank",
-                "brand:pt": "Banco Sol",
-                "brand:wikidata": "Q62118744",
-                "name": "Banco Sol",
-                "name:de": "Sonnenbank",
-                "name:en": "Sun Bank",
-                "name:es": "Banco Sol",
-                "name:fr": "Banc Soleil",
-                "name:it": "Banca Sole",
-                "name:nl": "Zonnebank",
-                "name:pl": "Bank Słońca",
-                "name:pt": "Banco Sol",
-                "name:ru": "Солнечный Берег"
-            }
+            "lon": 13.2589033
         },
         {
             "type": "node",
             "id": 2555385885,
             "lat": -8.8462071,
-            "lon": 13.2117518,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Rua da Samba",
-                "amenity": "bank",
-                "atm": "yes",
-                "name": "Banco BIC Angola"
-            }
+            "lon": 13.2117518
         },
         {
             "type": "node",
             "id": 2555385892,
             "lat": -8.8287332,
-            "lon": 13.2144877,
-            "tags": {
-                "addr:street": "Avenida Agostnho Neto",
-                "amenity": "bank",
-                "atm": "yes",
-                "name": "Banco Angolano de Investimentos (BAI)"
-            }
+            "lon": 13.2144877
         },
         {
             "type": "node",
             "id": 2555385894,
             "lat": -8.8286538,
-            "lon": 13.2145038,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Avenida Agostinho Neto",
-                "amenity": "bank",
-                "atm": "yes",
-                "brand": "Banco de Fomento Angola (BFA)",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola (BFA)",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Developpement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)"
-            }
+            "lon": 13.2145038
         },
         {
             "type": "node",
             "id": 2555392713,
             "lat": -8.83926,
-            "lon": 13.2140907,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Rua da Samba",
-                "amenity": "bank",
-                "atm": "yes",
-                "name": "Banco BIC Angola"
-            }
+            "lon": 13.2140907
         },
         {
             "type": "node",
             "id": 2555392719,
             "lat": -8.8565074,
-            "lon": 13.2067362,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Estrada da Samba",
-                "amenity": "bank",
-                "atm": "yes",
-                "name": "Banco de Poupança e Crédito (BPC) Agência Feminina"
-            }
+            "lon": 13.2067362
         },
         {
             "type": "node",
             "id": 2555392720,
             "lat": -8.8394447,
-            "lon": 13.2140444,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Rua da Samba",
-                "amenity": "bank",
-                "atm": "yes",
-                "brand": "Banco de Fomento Angola (BFA)",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola (BFA)",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Developpement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)"
-            }
+            "lon": 13.2140444
         },
         {
             "type": "node",
             "id": 2555392721,
             "lat": -8.8583611,
-            "lon": 13.2057196,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Rua da Samba",
-                "amenity": "bank",
-                "atm": "yes",
-                "brand": "Banco de Fomento Angola (BFA)",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola (BFA)",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Developpement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)"
-            }
+            "lon": 13.2057196
         },
         {
             "type": "node",
             "id": 2731443228,
             "lat": -8.8383266,
-            "lon": 13.2460601,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Avenida M. Alves de Pinho",
-                "amenity": "bank",
-                "atm": "yes",
-                "brand": "Banco de Fomento Angola",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:short": "BFA",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola",
-                "name:de": "Angola Entwicklungsbank (BFA) Agentur Cassequel",
-                "name:en": "Angola Development Bank (BFA) Cassequel Agency",
-                "name:es": "Banco de Fomento Angola (BFA) Agencia Cassequel",
-                "name:fr": "Banque de Developpement Angola (BFA) Agence Cassequel",
-                "name:it": "Banca di Sviluppo Angola (BFA) Agenzia Cassequel",
-                "name:nl": "Angola Ontwikkelingsbank (BFA) Cassequel Agentschap",
-                "name:pl": "Bank Rozwoju Angola (BFA) Agencja Cassequel",
-                "name:pt": "Banco de Fomento Angola (BFA) Agência Cassequel",
-                "name:ru": "Банк Развития Ангола (БФА) Каспийское Агентство",
-                "short_name": "BFA"
-            }
+            "lon": 13.2460601
         },
         {
             "type": "node",
             "id": 2731727922,
             "lat": -8.8382321,
-            "lon": 13.2608788,
-            "tags": {
-                "addr:street": "Rua Miguel Angelo Lupi",
-                "amenity": "bank",
-                "atm": "yes",
-                "brand": "Banco de Fomento Angola (BFA)",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola (BFA)",
-                "name:de": "Angola Entwicklungsbank (BFA) Beliebtes Quartier",
-                "name:en": "Angola Development Bank (BFA) Popular Agency",
-                "name:es": "Banco de Fomento Angola (BFA) Barrio Popular",
-                "name:fr": "Banque de Developpement Angola (BFA) Quartier Populaire",
-                "name:it": "Banca di Sviluppo Angola (BFA) Quartiere Popolare",
-                "name:nl": "Angola Ontwikkelingsbank (BFA) Populaire Wijk",
-                "name:pl": "Bank Rozwoju Angola (BFA) Popularna dzielnica",
-                "name:pt": "Banco de Fomento Angola (BFA) Agência Popular",
-                "name:ru": "Банк Развития Ангола (БФА) Популярный Квартал",
-                "wheelchair": "yes"
-            }
+            "lon": 13.2608788
         },
         {
             "type": "node",
             "id": 2731749649,
             "lat": -8.8632369,
-            "lon": 13.2623304,
-            "tags": {
-                "addr:street": "Rua Machado Saldanha",
-                "amenity": "bank",
-                "atm": "yes",
-                "name": "Banco Millennium Atlântico - Agência Centro Comercial do Golfe"
-            }
+            "lon": 13.2623304
         },
         {
             "type": "node",
             "id": 2731749656,
             "lat": -8.8631389,
-            "lon": 13.2623814,
-            "tags": {
-                "addr:street": "Rua Machado Saldanha",
-                "amenity": "bank",
-                "atm": "yes",
-                "brand": "Banco Sol",
-                "brand:en": "Sol Bank",
-                "brand:pt": "Banco Sol",
-                "brand:wikidata": "Q62118744",
-                "name": "Banco de Fomento Angola (BFA)",
-                "name:de": "Angola Entwicklungsbank (BFA) Golf-Einkaufszentrum-Agentur",
-                "name:en": "Angola Development Bank (BFA) Golf Shopping Center Agency",
-                "name:es": "Banco de Fomento Angola (BFA) Agencia de Centros Comerciales de Golf",
-                "name:fr": "Banque de Developpement Angola (BFA) Agence des Centres Commerciaux de Golf",
-                "name:it": "Banca di Sviluppo Angola (BFA) Agenzia Centro Commerciale Golf",
-                "name:nl": "Angola Ontwikkelingsbank (BFA) Golf Winkelcentrum Agentschap",
-                "name:pl": "Bank Rozwoju Angola (BFA) Agencja Centrum Handlowe Golfowe",
-                "name:pt": "Banco de Fomento Angola (BFA) Agência Centro Comercial do Golfe",
-                "name:ru": "Банк Развития Ангола (БФА) Агентство по Продаже Товаров для Гольфа"
-            }
+            "lon": 13.2623814
         },
         {
             "type": "node",
             "id": 2731750335,
             "lat": -8.8632926,
-            "lon": 13.2622875,
-            "tags": {
-                "addr:street": "Rua Machado Saldanha",
-                "amenity": "bank",
-                "atm": "yes",
-                "name": "Banco BIC Angola - Agência Centro Comercial do Golfe"
-            }
+            "lon": 13.2622875
         },
         {
             "type": "node",
             "id": 2731772093,
             "lat": -8.8183593,
-            "lon": 13.2316159,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:housename": "Oliva de Angola",
-                "addr:housenumber": "233",
-                "addr:street": "Largo Serpa Pinto",
-                "amenity": "bank",
-                "atm": "yes",
-                "brand": "Banco de Fomento Angola",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:short": "BFA",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Developpement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)",
-                "short_name": "BFA",
-                "source": "Bing"
-            }
+            "lon": 13.2316159
         },
         {
             "type": "node",
             "id": 2885004377,
             "lat": -8.9042821,
-            "lon": 13.188626,
-            "tags": {
-                "amenity": "bank",
-                "name": "Banco Angolano de Investimentos (BAI)"
-            }
+            "lon": 13.188626
         },
         {
             "type": "node",
             "id": 3073388228,
             "lat": -8.813217,
-            "lon": 13.2334127,
-            "tags": {
-                "addr:street": "Rua Major Kanhangulo",
-                "amenity": "bank",
-                "brand": "Banco de Fomento Angola",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:short": "BFA",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Developpement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)",
-                "short_name": "BFA"
-            }
+            "lon": 13.2334127
         },
         {
             "type": "node",
             "id": 3626039511,
             "lat": -8.9222688,
-            "lon": 13.1706396,
-            "tags": {
-                "addr:city": "Talatona, Luanda",
-                "addr:housenumber": "R/C",
-                "addr:street": "Via S8, Condomínio Dolce Vita, Lote 1",
-                "amenity": "bank",
-                "name": "Banco Angolano de Investimentos (BAI)"
-            }
+            "lon": 13.1706396
         },
         {
             "type": "node",
             "id": 3626039513,
             "lat": -8.9222584,
-            "lon": 13.1709622,
-            "tags": {
-                "addr:city": "Talatona, Luanda",
-                "addr:housenumber": "R/C",
-                "addr:street": "Via S8, Condomínio Dolce Vita, Lote 1",
-                "amenity": "bank",
-                "name": "Banco Valor - Agência Dolce Vita"
-            }
+            "lon": 13.1709622
         },
         {
             "type": "node",
             "id": 3626056622,
             "lat": -8.9219991,
-            "lon": 13.1715248,
-            "tags": {
-                "amenity": "bank",
-                "branch": "Angola (SBA)",
-                "brand": "Standard Bank",
-                "brand:wikidata": "Q1576610",
-                "name": "Standard Bank"
-            }
+            "lon": 13.1715248
         },
         {
             "type": "node",
             "id": 3626073088,
             "lat": -8.9199017,
-            "lon": 13.1733623,
-            "tags": {
-                "amenity": "bank",
-                "name": "Banco Millennium Atlântico"
-            }
+            "lon": 13.1733623
         },
         {
             "type": "node",
             "id": 3633606646,
             "lat": -8.9211027,
-            "lon": 13.2021511,
-            "tags": {
-                "amenity": "bank",
-                "name": "Banco Caixa Geral Angola (BCGA)"
-            }
+            "lon": 13.2021511
         },
         {
             "type": "node",
@@ -1242,25 +792,7 @@
             "type": "node",
             "id": 3694307679,
             "lat": -8.8113102,
-            "lon": 13.252633,
-            "tags": {
-                "amenity": "bank",
-                "brand": "Banco de Fomento Angola (BFA)",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola (BFA)",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Developpement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)"
-            }
+            "lon": 13.252633
         },
         {
             "type": "node",
@@ -1327,41 +859,13 @@
             "type": "node",
             "id": 3742569643,
             "lat": -8.9182448,
-            "lon": 13.1875943,
-            "tags": {
-                "addr:city": "Talatona, Luanda",
-                "addr:housenumber": "Centro Comercial Brisas de Talatona - Bloco 2",
-                "addr:street": "Avenida Samora Machel",
-                "amenity": "bank",
-                "brand": "Banco de Fomento Angola (BFA)",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola (BFA)",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Developpement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)"
-            }
+            "lon": 13.1875943
         },
         {
             "type": "node",
             "id": 3742569644,
             "lat": -8.918347,
-            "lon": 13.1873902,
-            "tags": {
-                "addr:city": "Talatona, Luanda",
-                "addr:housenumber": "Centro Comercial Brisas de Talatona - Bloco 2l",
-                "addr:street": "Avenida Samora Machel",
-                "amenity": "bank",
-                "name": "Banco Millennium Atlântico (BMA)"
-            }
+            "lon": 13.1873902
         },
         {
             "type": "node",
@@ -1403,27 +907,7 @@
             "type": "node",
             "id": 3786840783,
             "lat": -8.8444782,
-            "lon": 13.233102,
-            "tags": {
-                "addr:city": "Luanda",
-                "amenity": "bank",
-                "atm": "yes",
-                "brand": "Banco de Fomento Angola (BFA)",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola (BFA)",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Developpement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)"
-            }
+            "lon": 13.233102
         },
         {
             "type": "node",
@@ -1543,27 +1027,7 @@
             "type": "node",
             "id": 4189842662,
             "lat": -8.8197036,
-            "lon": 13.2425398,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Rua Frederick Welwitcha",
-                "amenity": "bank",
-                "atm": "yes",
-                "brand": "Banco Sol",
-                "brand:en": "Sol Bank",
-                "brand:pt": "Banco Sol",
-                "brand:wikidata": "Q62118744",
-                "name": "Banco Sol",
-                "name:de": "Sonnenbank - Hauptquartier",
-                "name:en": "Sun Bank - Headquarters",
-                "name:es": "Banco Sol - Sede central",
-                "name:fr": "Banc Soleil - Siège social",
-                "name:it": "Banca Sole - Sede centrale",
-                "name:nl": "Zonnebank - Hoofdkantoor",
-                "name:pl": "Bank Słońca - Siedziba główna",
-                "name:pt": "Banco Sol - Sede",
-                "name:ru": "Солнечный Берег - Штаб-квартира"
-            }
+            "lon": 13.2425398
         },
         {
             "type": "node",
@@ -1660,108 +1124,31 @@
             "type": "node",
             "id": 4207420246,
             "lat": -8.905987,
-            "lon": 13.3747088,
-            "tags": {
-                "addr:street": "Rua 11 de Novembro",
-                "alt_name:de": "Sonnenbank (Angola)",
-                "alt_name:en": "Sun Bank (Angola)",
-                "alt_name:es": "Banco Sol (Angola)",
-                "alt_name:fr": "Banc Soleil (Angola)",
-                "alt_name:it": "Banca Sole (Angola)",
-                "alt_name:nl": "Zonnebank (Angola)",
-                "alt_name:pl": "Bank Słońca (Angola)",
-                "amenity": "bank",
-                "brand": "Banco Sol (Angola)",
-                "brand:en": "Sol Bank (Angola)",
-                "brand:pt": "Banco Sol (Angola)",
-                "brand:wikidata": "Q62118744",
-                "name": "Banco Sol (Angola)",
-                "name:de": "Solbank (Angola)",
-                "name:en": "Sol Bank (Angola)",
-                "name:es": "Banco Sol (Angola)",
-                "name:fr": "Banc Sol (Angola)",
-                "name:it": "Banca Sol (Angola)",
-                "name:ja": "日銀行 (アンゴラ)",
-                "name:nl": "Solbank (Angola)",
-                "name:pl": "Bank Sol (Angola)",
-                "name:pt": "Banco Sol (Angola)",
-                "name:ru": "Солнце Банк (Ангола)",
-                "name:zh-Hans": "太阳银行 (安哥拉)",
-                "name:zh-Hant": "太陽銀行 (安哥拉)",
-                "operator": "Banco Sol"
-            }
+            "lon": 13.3747088
         },
         {
             "type": "node",
             "id": 4209067637,
             "lat": -8.8189066,
-            "lon": 13.2429036,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Avenida Rei Katyavala",
-                "amenity": "bank",
-                "atm": "yes",
-                "brand": "Banco de Fomento Angola",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:short": "BFA",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Developpement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)",
-                "opening_hours": "Mo-Fr 08:00-15:00",
-                "operator": "BFA",
-                "short_name": "BFA"
-            }
+            "lon": 13.2429036
         },
         {
             "type": "node",
             "id": 4212676695,
             "lat": -8.8200259,
-            "lon": 13.2395565,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:housenumber": "42",
-                "addr:street": "Avenida Che Guevara",
-                "amenity": "bank",
-                "email": "bnionline@bni.ao",
-                "name": "Banco de Negócios Internacional (BNI)",
-                "opening_hours": "Mo-Fr",
-                "phone": "+244 929 090 060",
-                "website": "www.bni.ao"
-            }
+            "lon": 13.2395565
         },
         {
             "type": "node",
             "id": 4215457789,
             "lat": -8.8222471,
-            "lon": 13.244157,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Rua da Liga Africana (ex Conde de Ficalho)",
-                "amenity": "bank",
-                "name": "Banco BIC",
-                "website": "https://www.bancobic.ao/"
-            }
+            "lon": 13.244157
         },
         {
             "type": "node",
             "id": 4261412646,
             "lat": -8.8290251,
-            "lon": 13.2400545,
-            "tags": {
-                "addr:city": "Luanda",
-                "amenity": "bank",
-                "name": "Banco de Poupança e Crédito (BPC)"
-            }
+            "lon": 13.2400545
         },
         {
             "type": "node",
@@ -1806,28 +1193,7 @@
             "type": "node",
             "id": 4261530535,
             "lat": -8.8106939,
-            "lon": 13.2386986,
-            "tags": {
-                "addr:city": "Luanda",
-                "amenity": "bank",
-                "brand": "Banco de Fomento Angola",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:short": "BFA",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Developpement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)",
-                "short_name": "BFA"
-            }
+            "lon": 13.2386986
         },
         {
             "type": "node",
@@ -1854,54 +1220,13 @@
             "type": "node",
             "id": 4261679436,
             "lat": -8.8101223,
-            "lon": 13.2492574,
-            "tags": {
-                "addr:city": "Luanda",
-                "amenity": "bank",
-                "brand": "Banco Sol",
-                "brand:en": "Sol Bank",
-                "brand:pt": "Banco Sol",
-                "brand:wikidata": "Q62118744",
-                "name": "Banco Sol",
-                "name:de": "Sonnenbank",
-                "name:en": "Sun Bank",
-                "name:es": "Banco Sol",
-                "name:fr": "Banc Soleil",
-                "name:it": "Banca Sole",
-                "name:nl": "Zonnebank",
-                "name:pl": "Bank Słońca",
-                "name:pt": "Banco Sol",
-                "name:ru": "Солнечный Берег"
-            }
+            "lon": 13.2492574
         },
         {
             "type": "node",
             "id": 4272785692,
             "lat": -8.9048621,
-            "lon": 13.2351127,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Rua 53",
-                "amenity": "bank",
-                "atm": "yes",
-                "brand": "Banco de Fomento Angola (BFA)",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola (BFA)",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Developpement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)",
-                "operator": "BFA",
-                "website": "https://www.bfa.ao/"
-            }
+            "lon": 13.2351127
         },
         {
             "type": "node",
@@ -1952,54 +1277,13 @@
             "type": "node",
             "id": 4321805504,
             "lat": -8.8086831,
-            "lon": 13.2382096,
-            "tags": {
-                "addr:city": "Luanda",
-                "amenity": "bank",
-                "brand": "Banco de Fomento Angola",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:short": "BFA",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Developpement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)",
-                "opening_hours": "24/7",
-                "phone": "+244 222 638 900",
-                "short_name": "BFA"
-            }
+            "lon": 13.2382096
         },
         {
             "type": "node",
             "id": 4324765984,
             "lat": -8.8049822,
-            "lon": 13.3033852,
-            "tags": {
-                "amenity": "bank",
-                "brand": "Banco de Fomento Angola (BFA)",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola (BFA)",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Developpement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)"
-            }
+            "lon": 13.3033852
         },
         {
             "type": "node",
@@ -2099,29 +1383,7 @@
             "type": "node",
             "id": 4635858763,
             "lat": -8.9494895,
-            "lon": 13.188195,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Avenida do Patriota",
-                "amenity": "bank",
-                "brand": "Banco de Fomento Angola",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:short": "BFA",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Développement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)",
-                "short_name": "BFA"
-            }
+            "lon": 13.188195
         },
         {
             "type": "node",
@@ -2139,39 +1401,14 @@
             "type": "node",
             "id": 4635858769,
             "lat": -8.9489163,
-            "lon": 13.1859408,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Avenida do Patriota",
-                "amenity": "bank",
-                "brand": "Banco Sol",
-                "brand:en": "Sol Bank",
-                "brand:pt": "Banco Sol",
-                "brand:wikidata": "Q62118744",
-                "name": "Banco Sol",
-                "name:de": "Sonnenbank",
-                "name:en": "Sun Bank",
-                "name:es": "Banco Sol",
-                "name:fr": "Banc Soleil",
-                "name:it": "Banca Sole",
-                "name:nl": "Zonnebank",
-                "name:pl": "Bank Słońca",
-                "name:pt": "Banco Sol",
-                "name:ru": "Солнечный Берег"
-            }
+            "lon": 13.1859408
         },
         {
             "type": "node",
             "id": 4635896340,
             "lat": -8.9528181,
-            "lon": 13.1957545,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Avenida do Patriota",
-                "amenity": "bank",
-                "name": "Banco Caixa Geral Angola (BCGA)"
-            }
-        },
+            "lon": 13.1957545
+         },
         {
             "type": "node",
             "id": 4635896341,
@@ -2236,27 +1473,7 @@
             "type": "node",
             "id": 4641433031,
             "lat": -8.9544804,
-            "lon": 13.1982797,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Avenida do Patriota",
-                "amenity": "bank",
-                "brand": "Banco de Fomento Angola (BFA)",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola (BFA)",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Développement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)"
-            }
+            "lon": 13.1982797
         },
         {
             "type": "node",
@@ -2310,26 +1527,8 @@
             "type": "node",
             "id": 4680082411,
             "lat": -8.8574819,
-            "lon": 13.2062276,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Estrada da Samba",
-                "amenity": "bank",
-                "brand": "Banco Sol",
-                "brand:en": "Sol Bank",
-                "brand:pt": "Banco Sol",
-                "brand:wikidata": "Q62118744",
-                "name": "Banco Sol",
-                "name:de": "Sonnenbank - Samba",
-                "name:en": "Sun Bank - Samba",
-                "name:es": "Banco Sol - Samba",
-                "name:fr": "Banc Soleil - Samba",
-                "name:it": "Banca Sole - Samba",
-                "name:nl": "Zonnebank - Samba",
-                "name:pl": "Bank Słońca - Samba",
-                "name:pt": "Banco Sol - Samba",
-                "name:ru": "Солнечный Берег - Самба"
-            }
+            "lon": 13.2062276
+            
         },
         {
             "type": "node",
@@ -2427,27 +1626,8 @@
             "type": "node",
             "id": 4738111143,
             "lat": -8.8284935,
-            "lon": 13.2217983,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Rua dos Heróis (ex Rua da Samba)",
-                "amenity": "bank",
-                "brand": "Banco de Fomento Angola (BFA)",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola (BFA)",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Developpement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)"
-            }
+            "lon": 13.2217983
+           
         },
         {
             "type": "node",
@@ -2475,29 +1655,7 @@
             "type": "node",
             "id": 4775521526,
             "lat": -8.8280164,
-            "lon": 13.2302995,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Avenida P Marien Ngouabi (ex António Barroso)",
-                "amenity": "bank",
-                "brand": "Banco de Fomento Angola",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:short": "BFA",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Developpement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)",
-                "short_name": "BFA"
-            }
+            "lon": 13.2302995
         },
         {
             "type": "node",
@@ -2645,27 +1803,7 @@
             "type": "node",
             "id": 4783570642,
             "lat": -8.8327819,
-            "lon": 13.2183341,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Estrada da Samba",
-                "amenity": "bank",
-                "brand": "Banco de Fomento Angola (BFA)",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola (BFA)",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Developpement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)"
-            }
+            "lon": 13.2183341
         },
         {
             "type": "node",
@@ -2695,25 +1833,7 @@
             "type": "node",
             "id": 4786527042,
             "lat": -8.8154856,
-            "lon": 13.2370963,
-            "tags": {
-                "addr:city": "Luanda",
-                "amenity": "bank",
-                "brand": "Banco Sol",
-                "brand:en": "Sol Bank",
-                "brand:pt": "Banco Sol",
-                "brand:wikidata": "Q62118744",
-                "name": "Banco Sol",
-                "name:de": "Sonnenbank - Firmenzentrum",
-                "name:en": "Sun Bank - Corporate Centre",
-                "name:es": "Banco Sol - Centro de Empresas",
-                "name:fr": "Banc Soleil - Centre d'entreprises",
-                "name:it": "Banca Sole - Centro Imprese",
-                "name:nl": "Zonnebank - Bedrijvencentrum",
-                "name:pl": "Bank Słońca - Centrum Przedsiębiorstw",
-                "name:pt": "Banco Sol - Business Centre",
-                "name:ru": "Солнечный Берег - Центр Компаний"
-            }
+            "lon": 13.2370963
         },
         {
             "type": "node",
@@ -2960,27 +2080,7 @@
             "type": "node",
             "id": 4855544501,
             "lat": -8.8715798,
-            "lon": 13.211492,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Avenida 21 de Janeiro",
-                "amenity": "bank",
-                "brand": "Banco de Fomento Angola (BFA)",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola (BFA)",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Developpement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)"
-            }
+            "lon": 13.211492
         },
         {
             "type": "node",
@@ -3090,80 +2190,19 @@
             "type": "node",
             "id": 5047645922,
             "lat": -8.9053031,
-            "lon": 13.3727297,
-            "tags": {
-                "addr:city": "Viana",
-                "alt_name:de": "Internationale Geschäftsbank (BNI)",
-                "alt_name:en": "International Business Bank (BNI)",
-                "alt_name:es": "Banco Internacional de Negocios (BNI)",
-                "alt_name:fr": "Banque internationale d'affaires (BNI)",
-                "alt_name:it": "Banca d'affari internazionale (BNI)",
-                "alt_name:nl": "Internationale zakenbank (BNI)",
-                "alt_name:pl": "Międzynarodowy Bank Przedsiębiorczości (BNI)",
-                "amenity": "bank",
-                "name": "Banco de Negócios Internacional (BNI)",
-                "name:de": "Negócios Internacionalbank (BNI)",
-                "name:en": "Negócios Internacional Bank (BNI)",
-                "name:es": "Banco de Negócios Internacional (BNI)",
-                "name:fr": "Banque de Negócios Internacional (BNI)",
-                "name:it": "Banca de Negócios Internacional (BNI)",
-                "name:ja": "国際ビジネス銀行 (BNI)",
-                "name:nl": "Negócios Internacionalbank (BNI)",
-                "name:pl": "Negócios Internacional Bank (BNI)",
-                "name:pt": "Banco de Negócios Internacional (BNI)",
-                "name:ru": "Международный бизнес-банк (BNI)",
-                "name:zh-Hans": "国际商业银行 (BNI)",
-                "name:zh-Hant": "國際商業銀行 (BNI)"
-            }
+            "lon": 13.3727297
         },
         {
             "type": "node",
             "id": 5148614941,
             "lat": -8.7818246,
-            "lon": 13.2371785,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Avenida Murtala Mohamed",
-                "amenity": "bank",
-                "name": "Banco Angolano de Investimentos (BAI)",
-                "name:de": "Angolanische Investmentbank (BAI)",
-                "name:en": "Angolan Investments Bank (BAI)",
-                "name:es": "Banco de Inversiones Angoleño (BAI)",
-                "name:fr": "Banque Angolaise D'investissement (BAI)",
-                "name:it": "Banca D'investimento Angolana (BAI)",
-                "name:nl": "Angolese Investeringsbank (BAI)",
-                "name:pl": "Angolski Bank Inwestycyjny (BAI)",
-                "name:pt": "Banco Angolano de Investimentos (BAI)",
-                "name:ru": "Ангольский Инвестиционный Банк (БАИ)"
-            }
+            "lon": 13.2371785
         },
         {
             "type": "node",
             "id": 5151070886,
             "lat": -8.7676649,
-            "lon": 13.2555991,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Avenida Murtala Mohamed (Ex Avenida Marchal Gomes da Costa)",
-                "amenity": "bank",
-                "brand": "Banco de Fomento Angola",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:short": "BFA",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Developpement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)",
-                "short_name": "BFA"
-            }
+            "lon": 13.2555991
         },
         {
             "type": "node",
@@ -3217,26 +2256,7 @@
             "type": "node",
             "id": 5169888254,
             "lat": -8.9400594,
-            "lon": 13.1607273,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Estrada da Samba",
-                "amenity": "bank",
-                "brand": "Banco Sol",
-                "brand:en": "Sol Bank",
-                "brand:pt": "Banco Sol",
-                "brand:wikidata": "Q62118744",
-                "name": "Banco Sol",
-                "name:de": "Sonnenbank",
-                "name:en": "Sun Bank",
-                "name:es": "Banco Sol",
-                "name:fr": "Banc Soleil",
-                "name:it": "Banca Sole",
-                "name:nl": "Zonnebank",
-                "name:pl": "Bank Słońca",
-                "name:pt": "Banco Sol",
-                "name:ru": "Солнечный Берег"
-            }
+            "lon": 13.1607273
         },
         {
             "type": "node",
@@ -3278,39 +2298,13 @@
             "type": "node",
             "id": 5176933417,
             "lat": -8.8381661,
-            "lon": 13.2365433,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Avenida Ho Chi Minh",
-                "amenity": "bank",
-                "brand": "Banco de Fomento Angola (BFA)",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola (BFA)",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Developpement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)"
-            }
+            "lon": 13.2365433
         },
         {
             "type": "node",
             "id": 5177628234,
             "lat": -8.8180256,
-            "lon": 13.2474509,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Avenida Comandante Valódia (ex Combatentes)",
-                "amenity": "bank",
-                "name": "FiniBanco Angola"
-            }
+            "lon": 13.2474509
         },
         {
             "type": "node",
@@ -3376,25 +2370,7 @@
             "type": "node",
             "id": 5312471029,
             "lat": -8.9506212,
-            "lon": 13.1722321,
-            "tags": {
-                "amenity": "bank",
-                "atm": "yes",
-                "brand": "Banco Sol",
-                "brand:en": "Sol Bank",
-                "brand:pt": "Banco Sol",
-                "brand:wikidata": "Q62118744",
-                "name": "Banco Sol",
-                "name:de": "Sonnenbank",
-                "name:en": "Sun Bank",
-                "name:es": "Banco Sol",
-                "name:fr": "Banc Soleil",
-                "name:it": "Banca Sole",
-                "name:nl": "Zonnebank",
-                "name:pl": "Bank Słońca",
-                "name:pt": "Banco Sol",
-                "name:ru": "Солнечный Берег"
-            }
+            "lon": 13.1722321
         },
         {
             "type": "node",
@@ -3448,27 +2424,7 @@
             "type": "node",
             "id": 5515160495,
             "lat": -8.7821406,
-            "lon": 13.3155061,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Estrada de Cacuaco",
-                "amenity": "bank",
-                "brand": "Banco de Fomento Angola (BFA)",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola (BFA)",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Developpement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)"
-            }
+            "lon": 13.3155061
         },
         {
             "type": "node",
@@ -3593,26 +2549,7 @@
             "type": "node",
             "id": 5557340531,
             "lat": -8.9049619,
-            "lon": 13.2353702,
-            "tags": {
-                "addr:city": "Luanda",
-                "amenity": "bank",
-                "atm": "yes",
-                "brand": "Banco Sol",
-                "brand:en": "Sol Bank",
-                "brand:pt": "Banco Sol",
-                "brand:wikidata": "Q62118744",
-                "name": "Banco Sol",
-                "name:de": "Sonnenbank",
-                "name:en": "Sun Bank",
-                "name:es": "Banco Sol",
-                "name:fr": "Banc Soleil",
-                "name:it": "Banca Sole",
-                "name:nl": "Zonnebank",
-                "name:pl": "Bank Słońca",
-                "name:pt": "Banco Sol",
-                "name:ru": "Солнечный Берег"
-            }
+            "lon": 13.2353702
         },
         {
             "type": "node",
@@ -3641,25 +2578,7 @@
             "type": "node",
             "id": 5560706947,
             "lat": -8.908318,
-            "lon": 13.2072544,
-            "tags": {
-                "amenity": "bank",
-                "brand": "Banco de Fomento Angola (BFA)",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola (BFA)",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Developpement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)"
-            }
+            "lon": 13.2072544
         },
         {
             "type": "node",
@@ -3687,52 +2606,13 @@
             "type": "node",
             "id": 5563078323,
             "lat": -8.8865141,
-            "lon": 13.2070112,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Rua do Gamek a Direita",
-                "amenity": "bank",
-                "brand": "Banco Sol",
-                "brand:en": "Sol Bank",
-                "brand:pt": "Banco Sol",
-                "brand:wikidata": "Q62118744",
-                "name": "Banco Sol",
-                "name:de": "Sonnenbank - Mikro-Kredit",
-                "name:en": "Sun Bank - Micro Credit",
-                "name:es": "Banco Sol - Microcrédito",
-                "name:fr": "Banc Soleil - Micro-crédit",
-                "name:it": "Banca Sole - Micro Credito",
-                "name:nl": "Zonnebank - Microkrediet",
-                "name:pl": "Bank Słońca - Mikrokredyt",
-                "name:pt": "Banco Sol - Micro Crédito",
-                "name:ru": "Солнечный Берег - Микрокредит"
-            }
+            "lon": 13.2070112
         },
         {
             "type": "node",
             "id": 5563186083,
             "lat": -8.876899,
-            "lon": 13.2109443,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Avenida 21 de Janeiro",
-                "amenity": "bank",
-                "brand": "Banco de Fomento Angola (BFA)",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola (BFA)",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Developpement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)"
-            }
+            "lon": 13.2109443
         },
         {
             "type": "node",
@@ -3750,27 +2630,7 @@
             "type": "node",
             "id": 5563186431,
             "lat": -8.9025698,
-            "lon": 13.1895103,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Avenida Pedro de C. Vandunem-Loy",
-                "amenity": "bank",
-                "brand": "Banco de Fomento Angola (BFA)",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola (BFA)",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Developpement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)"
-            }
+            "lon": 13.1895103
         },
         {
             "type": "node",
@@ -3809,26 +2669,7 @@
             "type": "node",
             "id": 5661088440,
             "lat": -8.9127062,
-            "lon": 13.2353018,
-            "tags": {
-                "addr:city": "Luanda",
-                "amenity": "bank",
-                "brand": "Banco de Fomento Angola (BFA)",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola (BFA)",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Developpement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)"
-            }
+            "lon": 13.2353018
         },
         {
             "type": "node",
@@ -3846,56 +2687,13 @@
             "type": "node",
             "id": 5678134422,
             "lat": -8.8238369,
-            "lon": 13.2383507,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Rua Major Marcelino Dias",
-                "amenity": "bank",
-                "brand": "Banco de Fomento Angola",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:short": "BFA",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Developpement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)",
-                "opening_hours": "Mo-Fr 08:00-15:00",
-                "short_name": "BFA"
-            }
+            "lon": 13.2383507
         },
         {
             "type": "node",
             "id": 5678452612,
             "lat": -8.9408416,
-            "lon": 13.2536236,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Rua do Jardim do Eden",
-                "amenity": "bank",
-                "brand": "Banco de Fomento Angola (BFA)",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola (BFA)",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Développement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)"
-            }
+            "lon": 13.2536236
         },
         {
             "type": "node",
@@ -3948,26 +2746,7 @@
             "type": "node",
             "id": 5695278448,
             "lat": -8.8966136,
-            "lon": 13.2601814,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Estrada do Golfe-Camama",
-                "amenity": "bank",
-                "brand": "Banco Sol",
-                "brand:en": "Sol Bank",
-                "brand:pt": "Banco Sol",
-                "brand:wikidata": "Q62118744",
-                "name": "Banco Sol",
-                "name:de": "Sonnenbank - Camama II",
-                "name:en": "Sun Bank - Camama II",
-                "name:es": "Banco Sol - Camama II",
-                "name:fr": "Banc Soleil - Camama II",
-                "name:it": "Banca Sole - Camama II",
-                "name:nl": "Zonnebank - Camama II",
-                "name:pl": "Bank Słońca - Camama II",
-                "name:pt": "Banco Sol - Camama II",
-                "name:ru": "Солнечный Берег - Камама II"
-            }
+            "lon": 13.2601814
         },
         {
             "type": "node",
@@ -4135,50 +2914,14 @@
             "type": "node",
             "id": 6045627718,
             "lat": -8.8249314,
-            "lon": 13.2428784,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Rua da Liga Africana",
-                "amenity": "bank",
-                "brand": "Banco Sol",
-                "brand:en": "Sol Bank",
-                "brand:pt": "Banco Sol",
-                "brand:wikidata": "Q62118744",
-                "name": "Banco Sol",
-                "name:de": "Sonnenbank - Liga Africana",
-                "name:en": "Sun Bank - Liga Africana",
-                "name:es": "Banco Sol - Liga Africana",
-                "name:fr": "Banc Soleil - Liga Africana",
-                "name:it": "Banca Sole - Liga Africana",
-                "name:nl": "Zonnebank - Liga Africana",
-                "name:pl": "Bank Słońca - Liga Africana",
-                "name:pt": "Banco Sol - Liga Africana",
-                "name:ru": "Солнечный Берег - Лига Африкана"
-            }
+            "lon": 13.2428784
         },
         {
             "type": "node",
             "id": 6045627719,
             "lat": -8.8246597,
-            "lon": 13.2430353,
-            "tags": {
-                "addr:city": "Luanda",
-                "amenity": "bank",
-                "brand": "Banco Sol",
-                "brand:en": "Sol Bank",
-                "brand:pt": "Banco Sol",
-                "brand:wikidata": "Q62118744",
-                "name": "Banco Sol",
-                "name:de": "Sonnenbank",
-                "name:en": "Sun Bank",
-                "name:es": "Banco Sol",
-                "name:fr": "Banc Soleil",
-                "name:it": "Banca Sole",
-                "name:nl": "Zonnebank",
-                "name:pl": "Bank Słońca",
-                "name:pt": "Banco Sol",
-                "name:ru": "Солнечный Берег"
-            }
+            "lon": 13.2430353
+           
         },
         {
             "type": "node",
@@ -4217,49 +2960,13 @@
             "type": "node",
             "id": 6129465305,
             "lat": -8.9150937,
-            "lon": 13.2000439,
-            "tags": {
-                "addr:street": "Via A2",
-                "amenity": "bank",
-                "brand": "Banco de Fomento Angola (BFA)",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola (BFA)",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Developpement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)"
-            }
+            "lon": 13.2000439
         },
         {
             "type": "node",
             "id": 6137535765,
             "lat": -8.926726,
-            "lon": 13.2629003,
-            "tags": {
-                "amenity": "bank",
-                "brand": "Banco Sol",
-                "brand:en": "Sol Bank",
-                "brand:pt": "Banco Sol",
-                "brand:wikidata": "Q62118744",
-                "name": "Banco Sol",
-                "name:de": "Sonnenbank - Camama I",
-                "name:en": "Sun Bank - Camama I",
-                "name:es": "Banco Sol - Camama I",
-                "name:fr": "Banc Soleil - Camama I",
-                "name:it": "Banca Sole - Camama I",
-                "name:nl": "Zonnebank - Camama I",
-                "name:pl": "Bank Słońca - Camama I",
-                "name:pt": "Banco Sol - Camama I",
-                "name:ru": "Солнечный Берег - Камама I"
-            }
+            "lon": 13.2629003
         },
         {
             "type": "node",
@@ -4295,25 +3002,7 @@
             "type": "node",
             "id": 6141186512,
             "lat": -8.9940185,
-            "lon": 13.3969963,
-            "tags": {
-                "amenity": "bank",
-                "brand": "Banco de Fomento Angola (BFA)",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "name": "Banco de Fomento Angola (BFA)",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Développement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)"
-            }
+            "lon": 13.3969963
         },
         {
             "type": "node",
@@ -4368,24 +3057,7 @@
             "type": "node",
             "id": 6219854941,
             "lat": -8.9027237,
-            "lon": 13.2152544,
-            "tags": {
-                "amenity": "bank",
-                "brand": "Banco Sol",
-                "brand:en": "Sol Bank",
-                "brand:pt": "Banco Sol",
-                "brand:wikidata": "Q62118744",
-                "name": "Banco Sol",
-                "name:de": "Sonnenbank - Vila Nova Wohnungseigentumsagentur",
-                "name:en": "Sun Bank -  Vila Nova Condominum Agency",
-                "name:es": "Banco Sol - Agencia de Condominios Vila Nova",
-                "name:fr": "Banc Soleil - Agence des condominiums de Vila Nova",
-                "name:it": "Banca Sole - Agenzia Condominiale Vila Nova",
-                "name:nl": "Zonnebank - Vila Nova Condominium Agentschap",
-                "name:pl": "Bank Słońca - Agencja Vila Nova Condominium",
-                "name:pt": "Banco Sol - Agência do Condómino Vila Nova",
-                "name:ru": "Солнечный Берег - Кондоминиумное Агентство Вила-Нова"
-            }
+            "lon": 13.2152544
         },
         {
             "type": "node",
@@ -4437,24 +3109,7 @@
             "type": "node",
             "id": 6311949182,
             "lat": -8.9723138,
-            "lon": 13.2968309,
-            "tags": {
-                "amenity": "bank",
-                "brand": "Banco Sol",
-                "brand:en": "Sol Bank",
-                "brand:pt": "Banco Sol",
-                "brand:wikidata": "Q62118744",
-                "name": "Banco Sol",
-                "name:de": "Sonnenbank",
-                "name:en": "Sun Bank",
-                "name:es": "Banco Sol",
-                "name:fr": "Banc Soleil",
-                "name:it": "Banca Sole",
-                "name:nl": "Zonnebank",
-                "name:pl": "Bank Słońca",
-                "name:pt": "Banco Sol",
-                "name:ru": "Солнечный Берег"
-            }
+            "lon": 13.2968309
         },
         {
             "type": "node",
@@ -4510,26 +3165,7 @@
             "type": "node",
             "id": 6320010245,
             "lat": -8.9020951,
-            "lon": 13.2641751,
-            "tags": {
-                "amenity": "bank",
-                "brand": "Banco de Fomento Angola (BFA)",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "hazard": "hole",
-                "name": "Banco de Fomento Angola (BFA)",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Developpement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)"
-            }
+            "lon": 13.2641751
         },
         {
             "type": "node",
@@ -4565,36 +3201,7 @@
             "type": "node",
             "id": 6329924550,
             "lat": -9.0276885,
-            "lon": 13.4057478,
-            "tags": {
-                "alt_name:de": "Sonnenbank",
-                "alt_name:en": "Sun Bank",
-                "alt_name:es": "Banco Sol",
-                "alt_name:fr": "Banc Soleil",
-                "alt_name:it": "Banca Sole",
-                "alt_name:ja": "日銀行",
-                "alt_name:nl": "Zonnebank",
-                "alt_name:pl": "Bank Słońca",
-                "alt_name:ru": "Солнце Банк",
-                "alt_name:zh-Hans": "太阳银行",
-                "alt_name:zh-Hant": "太陽銀行",
-                "amenity": "bank",
-                "brand": "Banco Sol",
-                "brand:en": "Sol Bank",
-                "brand:pt": "Banco Sol",
-                "brand:wikidata": "Q62118744",
-                "name": "Banco Sol",
-                "name:de": "Solbank",
-                "name:en": "Sol Bank",
-                "name:es": "Banco Sol",
-                "name:fr": "Banc Sol",
-                "name:it": "Banca Sol",
-                "name:ja": "ソル銀行",
-                "name:nl": "Solbank",
-                "name:pl": "Bank Sol",
-                "name:pt": "Banco Sol",
-                "name:ru": "Сол Банк"
-            }
+            "lon": 13.4057478
         },
         {
             "type": "node",
@@ -4638,24 +3245,7 @@
             "type": "node",
             "id": 6597688079,
             "lat": -9.0073535,
-            "lon": 13.2891728,
-            "tags": {
-                "amenity": "bank",
-                "brand": "Banco Sol",
-                "brand:en": "Sol Bank",
-                "brand:pt": "Banco Sol",
-                "brand:wikidata": "Q62118744",
-                "name": "Banco Sol",
-                "name:de": "Sonnenbank - Agentur Tuafeni",
-                "name:en": "Sun Bank - Tuafeni Agency",
-                "name:es": "Banco Sol - Agencia Tuafeni",
-                "name:fr": "Banc Soleil - Agence Tuafeni",
-                "name:it": "Banca Sole - Agenzia Tuafeni",
-                "name:nl": "Zonnebank - Agentschap Tuafeni",
-                "name:pl": "Bank Słońca - Agencja Tuafeni",
-                "name:pt": "Banco Sol - Agência Tuafeni",
-                "name:ru": "Солнечный Берег - Агентство Туафени"
-            }
+            "lon": 13.2891728
         },
         {
             "type": "node",
@@ -4672,28 +3262,7 @@
             "type": "node",
             "id": 6683221385,
             "lat": -8.9622969,
-            "lon": 13.1507766,
-            "tags": {
-                "addr:street": "Avenida Comandante Fidel Castro",
-                "amenity": "bank",
-                "atm": "yes",
-                "brand": "Banco de Fomento Angola (BFA)",
-                "brand:en": "Angola Development Bank (BFA)",
-                "brand:es": "Banco de Fomento Angola (BFA)",
-                "brand:wikidata": "Q806197",
-                "brand:wikipedia": "de:Banco de Fomento Angola",
-                "drive_through": "yes",
-                "name": "Banco de Fomento Angola (BFA)",
-                "name:de": "Angola Entwicklungsbank (BFA)",
-                "name:en": "Angola Development Bank (BFA)",
-                "name:es": "Banco de Fomento Angola (BFA)",
-                "name:fr": "Banque de Développement Angola (BFA)",
-                "name:it": "Banca di Sviluppo Angola (BFA)",
-                "name:nl": "Angola Ontwikkelingsbank (BFA)",
-                "name:pl": "Bank Rozwoju Angola (BFA)",
-                "name:pt": "Banco de Fomento Angola (BFA)",
-                "name:ru": "Банк Развития Ангола (БФА)"
-            }
+            "lon": 13.1507766
         },
         {
             "type": "node",
@@ -4986,495 +3555,243 @@
             "type": "node",
             "id": 8874529423,
             "lat": -8.8128058,
-            "lon": 13.2302314,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Rua 25 Abril",
-                "amenity": "bank",
-                "brand": "Banco de Fomento Angola",
-                "brand:short": "BFA",
-                "brand:wikidata": "Q806197",
-                "name": "Banco de Fomento Angola",
-                "short_name": "BFA"
-            }
+            "lon": 13.2302314
         },
         {
             "type": "node",
             "id": 8874542043,
             "lat": -8.8134104,
-            "lon": 13.2301119,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Rua Rainha Ginga",
-                "amenity": "bank",
-                "name": "Banco Economico"
-            }
+            "lon": 13.2301119
         },
         {
             "type": "node",
             "id": 8874844605,
             "lat": -8.8176294,
-            "lon": 13.2298057,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Rua Conselheiro Júlio de Vilhena",
-                "amenity": "bank",
-                "atm": "yes",
-                "brand": "BPC",
-                "brand:wikidata": "Q4854132",
-                "name": "BPC",
-                "official_name": "Banco de Poupança e Crédito"
-            }
+            "lon": 13.2298057
         },
         {
             "type": "node",
             "id": 8878025746,
             "lat": -8.8889674,
-            "lon": 13.2039677,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Avenida 21 de Janeiro",
-                "amenity": "bank",
-                "name": "Banco de Poupança e Crédito (BPC) Centro de Empresas Morro Bento"
-            }
+            "lon": 13.2039677
         },
         {
             "type": "node",
             "id": 8878706613,
             "lat": -8.8183196,
-            "lon": 13.230878,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Rua Conselheiro Júlio de Vilhena",
-                "amenity": "bank",
-                "name": "Banco de Comercio e Indústria (BCI)"
-            }
+            "lon": 13.230878
         },
         {
             "type": "node",
             "id": 8878787139,
             "lat": -8.8188729,
-            "lon": 13.2312666,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Rua Amilcar Cabral",
-                "amenity": "bank",
-                "brand": "Banco Sol",
-                "brand:en": "Sol Bank",
-                "brand:pt": "Banco Sol",
-                "brand:wikidata": "Q62118744",
-                "name": "Banco Sol",
-                "name:en": "Sol Bank",
-                "name:pt": "Banco Sol"
-            }
+            "lon": 13.2312666
         },
         {
             "type": "node",
             "id": 8879081810,
             "lat": -8.8243217,
-            "lon": 13.2282669,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Avenida Revolução de Outubro",
-                "amenity": "bank",
-                "atm": "yes",
-                "name": "Banco BIC"
-            }
+            "lon": 13.2282669
         },
         {
             "type": "node",
             "id": 9676287917,
             "lat": -8.8402303,
-            "lon": 13.2684587,
-            "tags": {
-                "addr:street": "Avenida Deolinda Rodrigues",
-                "amenity": "bank",
-                "name": "Banco de Fomento Angola-BFA",
-                "opening_hours": "Mo-Fr 08:00-15:00"
-            }
+            "lon": 13.2684587
         },
         {
             "type": "node",
             "id": 9676288017,
             "lat": -8.8419803,
-            "lon": 13.2723093,
-            "tags": {
-                "addr:street": "Avenida Deolinda Rodrigues",
-                "amenity": "bank",
-                "name": "Banco BIC",
-                "opening_hours": "Mo-Fr 08:00-15:00"
-            }
+            "lon": 13.2723093
         },
         {
             "type": "node",
             "id": 9904106032,
             "lat": -8.8134812,
-            "lon": 13.2310553,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Rua Rainha Ginga",
-                "amenity": "bank",
-                "name": "Banco Bai"
-            }
+            "lon": 13.2310553
         },
         {
             "type": "node",
             "id": 9907106494,
             "lat": -8.8706509,
-            "lon": 13.3191,
-            "tags": {
-                "amenity": "bank",
-                "name": "Banco de Fomento Angola (BFA)"
-            }
+            "lon": 13.3191
         },
         {
             "type": "node",
             "id": 9907107178,
             "lat": -8.8807239,
-            "lon": 13.3352679,
-            "tags": {
-                "amenity": "bank",
-                "brand": "Banco de Fomento Angola (BFA)",
-                "brand:wikidata": "Q806197",
-                "name": "Banco de Fomento Angola (BFA)"
-            }
+            "lon": 13.3352679
         },
         {
             "type": "node",
             "id": 9907126541,
             "lat": -8.88324,
-            "lon": 13.3385037,
-            "tags": {
-                "amenity": "bank",
-                "name": "Banco Keve"
-            }
+            "lon": 13.3385037
         },
         {
             "type": "node",
             "id": 9907149171,
             "lat": -8.9434007,
-            "lon": 13.4338039,
-            "tags": {
-                "amenity": "bank",
-                "name": "Banco Bic"
-            }
+            "lon": 13.4338039
         },
         {
             "type": "node",
             "id": 9946396990,
             "lat": -8.8261058,
-            "lon": 13.24706,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Rua G. João de Almeida",
-                "amenity": "bank",
-                "name": "Banco de Comercio e Industria (BCI)"
-            }
+            "lon": 13.24706
         },
         {
             "type": "node",
             "id": 9948697967,
             "lat": -8.8749756,
-            "lon": 13.211085,
-            "tags": {
-                "addr:city": "Luanda",
-                "amenity": "bank",
-                "name": "Banco Keve"
-            }
+            "lon": 13.211085
         },
         {
             "type": "node",
             "id": 9980207916,
             "lat": -8.9744018,
-            "lon": 13.3469083,
-            "tags": {
-                "amenity": "bank",
-                "brand": "Banco Sol",
-                "brand:wikidata": "Q62118744",
-                "name": "Banco Sol"
-            }
+            "lon": 13.3469083
         },
         {
             "type": "node",
             "id": 10004001654,
             "lat": -8.9009721,
-            "lon": 13.2594799,
-            "tags": {
-                "amenity": "bank",
-                "name": "Banco Caixa Geral Angola (BCGA)"
-            }
+            "lon": 13.2594799
         },
         {
             "type": "node",
             "id": 10007410414,
             "lat": -8.975196,
-            "lon": 13.1718409,
-            "tags": {
-                "addr:street": "Avenida Comandante Fidel Castro",
-                "amenity": "bank",
-                "brand": "BPC",
-                "brand:wikidata": "Q4854132",
-                "name": "Banco de Poupança e Crédito (BPC)",
-                "not:brand:wikidata": "Q4854132",
-                "official_name": "Banco de Poupança e Crédito"
-            }
+            "lon": 13.1718409
         },
         {
             "type": "node",
             "id": 10007436619,
             "lat": -8.9788229,
-            "lon": 13.1774145,
-            "tags": {
-                "addr:street": "Avenida Comandante Fidel Castro",
-                "amenity": "bank",
-                "brand": "Banco Sol",
-                "brand:wikidata": "Q62118744",
-                "name": "Banco Sol"
-            }
+            "lon": 13.1774145
         },
         {
             "type": "node",
             "id": 10007542566,
             "lat": -8.9546556,
-            "lon": 13.1512728,
-            "tags": {
-                "addr:street": "Estrada da Samba",
-                "amenity": "bank",
-                "brand": "Banco Angolano de Investimentos (BAI)",
-                "brand:wikidata": "Q806172",
-                "name": "Banco Angolano de Investimentos (BAI)",
-                "official_name": "Banco Angolano de Investimentos"
-            }
+            "lon": 13.1512728
         },
         {
             "type": "node",
             "id": 10035828807,
             "lat": -8.8776973,
-            "lon": 13.2814234,
-            "tags": {
-                "amenity": "bank",
-                "name": "Banco Bai"
-            }
+            "lon": 13.2814234
         },
         {
             "type": "node",
             "id": 10044092840,
             "lat": -8.8884959,
-            "lon": 13.2435033,
-            "tags": {
-                "addr:street": "Avenida Pedro de Castro Van-Dúnem Loy",
-                "amenity": "bank",
-                "brand": "Banco Sol",
-                "brand:wikidata": "Q62118744",
-                "name": "Banco Sol"
-            }
+            "lon": 13.2435033
         },
         {
             "type": "node",
             "id": 11093015205,
             "lat": -8.9797038,
-            "lon": 13.3912588,
-            "tags": {
-                "amenity": "bank",
-                "name": "Banco Atlântico",
-                "name:en": "Atlantic Bank",
-                "name:es": "Banco Atlántico"
-            }
+            "lon": 13.3912588
         },
         {
             "type": "node",
             "id": 11787656544,
             "lat": -8.8180422,
-            "lon": 13.2411729,
-            "tags": {
-                "amenity": "bank",
-                "name": "banco Bai"
-            }
+            "lon": 13.2411729
+           
         },
         {
             "type": "node",
             "id": 12194403140,
             "lat": -8.9267341,
-            "lon": 13.1889608,
-            "tags": {
-                "addr:city": "Talatona",
-                "addr:street": "Condomínio America Plaza - Via S10",
-                "amenity": "bank",
-                "name": "Banco Caixa Geral Angola (BCGA)"
-            }
+            "lon": 13.1889608
+           
         },
         {
             "type": "node",
             "id": 12204807951,
             "lat": -8.9182923,
-            "lon": 13.1874923,
-            "tags": {
-                "addr:city": "Talatona, Luanda",
-                "addr:housenumber": "Centro Comercial Brisas de Talatona - Bloco 2",
-                "addr:street": "Avenida Samora Machel",
-                "amenity": "bank",
-                "name": "Banco Crédito do Sul (BCS)"
-            }
+            "lon": 13.1874923
+
         },
         {
             "type": "node",
             "id": 12205231665,
             "lat": -8.9204639,
-            "lon": 13.1734845,
-            "tags": {
-                "addr:city": "Talatona, Luanda",
-                "addr:housenumber": "Bloco 9/10 - 1º Andar",
-                "addr:street": "Condomínio Cidade Financeira - Via S8",
-                "amenity": "bank",
-                "name": "Banco Valor (sede)"
-            }
+            "lon": 13.1734845
         },
         {
             "type": "node",
             "id": 12216185724,
             "lat": -8.9232659,
-            "lon": 13.1722752,
-            "tags": {
-                "addr:city": "Talatona, Luanda",
-                "addr:housenumber": "4",
-                "addr:street": "Via S8, Condomínio Dolce Vita, Lote 4",
-                "amenity": "bank",
-                "name": "Banco de Desenvolvimento de Angola (BDA)"
-            }
+            "lon": 13.1722752
+           
         },
         {
             "type": "node",
             "id": 12241196165,
             "lat": -8.9233242,
-            "lon": 13.1904377,
-            "tags": {
-                "addr:city": "Talatona, Luanda",
-                "addr:street": "Via S10, Belas Business Park, Torre Cuanza Sul",
-                "amenity": "bank",
-                "brand": "BOC",
-                "brand:wikidata": "Q790068",
-                "name": "BOC",
-                "official_name": "Bank of China"
-            }
+            "lon": 13.1904377
+           
         },
         {
             "type": "node",
             "id": 12241196168,
             "lat": -8.922813,
-            "lon": 13.1907547,
-            "tags": {
-                "addr:city": "Talatona, Luanda",
-                "addr:street": "Via S10, Belas Business Park, Torre Cuanza Norte",
-                "amenity": "bank",
-                "brand": "Banco de Fomento Angola",
-                "brand:short": "BFA",
-                "brand:wikidata": "Q806197",
-                "name": "Banco de Fomento Angola",
-                "short_name": "BFA"
-            }
+            "lon": 13.1907547
         },
         {
             "type": "node",
             "id": 12314269615,
             "lat": -8.9515252,
-            "lon": 13.1927577,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Avenida \"O Lar do Patriota\"",
-                "amenity": "bank",
-                "name": "Banco Económico (BE)"
-            }
+            "lon": 13.1927577
+         
         },
         {
             "type": "node",
             "id": 12314269616,
             "lat": -8.9514482,
-            "lon": 13.192586,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Avenida \"O Lar do Patriota\"",
-                "amenity": "bank",
-                "branch": "Angola (SBA)",
-                "brand": "Standard Bank",
-                "brand:wikidata": "Q1576610",
-                "name": "Standard Bank"
-            }
+            "lon": 13.192586
+           
         },
         {
             "type": "node",
             "id": 12314269617,
             "lat": -8.9513734,
-            "lon": 13.1924167,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Avenida \"O Lar do Patriota\"",
-                "amenity": "bank",
-                "brand": "BPC",
-                "brand:wikidata": "Q4854132",
-                "name": "BPC",
-                "official_name": "Banco de Poupança e Crédito"
-            }
+            "lon": 13.1924167
         },
         {
             "type": "node",
             "id": 12314269618,
             "lat": -8.9513026,
-            "lon": 13.1922515,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Avenida \"O Lar do Patriota\"",
-                "amenity": "bank",
-                "brand": "BPC",
-                "brand:wikidata": "Q4854132",
-                "name": "BPC",
-                "official_name": "Banco de Poupança e Crédito"
-            }
+            "lon": 13.1922515
         },
         {
             "type": "node",
             "id": 12314269619,
             "lat": -8.9512239,
-            "lon": 13.1920763,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Avenida \"O Lar do Patriota\"",
-                "amenity": "bank",
-                "name": "Banco Angolano de Investimentos (BAI)"
-            }
+            "lon": 13.1920763
         },
         {
             "type": "node",
             "id": 12314269620,
             "lat": -8.9510511,
-            "lon": 13.1916922,
-            "tags": {
-                "addr:city": "Luanda",
-                "addr:street": "Avenida \"O Lar do Patriota\"",
-                "amenity": "bank",
-                "name": "Banco Millennium Atlântico (BMA)"
-            }
+            "lon": 13.1916922
         },
         {
             "type": "node",
             "id": 12314269627,
             "lat": -8.9518473,
-            "lon": 13.193393,
-            "tags": {
-                "addr:street": "Avenida \"O Lar do Patriota\"",
-                "amenity": "bank",
-                "name": "Banco Comercial Angolano (BCA)"
-            }
+            "lon": 13.193393
+           
         },
         {
             "type": "node",
             "id": 12323870993,
             "lat": -8.9500714,
-            "lon": 13.1895493,
-            "tags": {
-                "addr:street": "Avenida do Patriota",
-                "amenity": "bank",
-                "name": "Banco BIC"
-            }
+            "lon": 13.1895493
         }
     ]
 }

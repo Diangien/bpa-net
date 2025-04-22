@@ -14,7 +14,7 @@ import api from "@/utils/axios";
 import { AxiosError } from "axios";
 import { TailSpin } from "react-loader-spinner";
 import { toast } from "sonner";
-import { useUserStore } from "@/contexts/userStore";
+import useUserStore  from "@/contexts/userStore";
 const personalDataSchema = z.object({
   bi: z.string(),
   numeroconta: z.string(),

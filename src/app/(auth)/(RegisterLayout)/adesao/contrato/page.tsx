@@ -13,7 +13,7 @@ import { useRouter } from "next/navigation";
 
 import { TailSpin } from "react-loader-spinner";
 import api from "@/utils/axios";
-import { useUserStore } from "@/contexts/userStore";
+import useUserStore  from "@/contexts/userStore";
 import { AxiosError } from "axios";
 import { toast } from "sonner";
 import FingerprintJS from "@fingerprintjs/fingerprintjs"; // lib que cria um id unico do navegador/dispositivo do usuario

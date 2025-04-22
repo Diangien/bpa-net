@@ -3,10 +3,10 @@ import Sidebar from "@/components/sidebar/Sidebar";
 import useContaStore from "@/contexts/contaStore";
 import { DadosContaType } from "@/types/commons";
 import dynamic from "next/dynamic"
-import { Bell,  Search } from "lucide-react";
-import { useEffect, useState } from "react";
+import {   Search } from "lucide-react";
+import { useEffect, useState,KeyboardEvent } from "react";
 import Transferencias from "../transferencias/page";
-import Pagamentos from "../pagamentos/page";
+ //import Pagamentos from "../pagamentos/page";
 import Home from "../inicio/page";
 import Levantamentos from "../levantamentos/page";
 import Senha from "../senha/page";
@@ -19,49 +19,31 @@ import {
   SelectContent,
   SelectGroup,
   SelectItem,
+  SelectLabel,
   SelectTrigger,
 } from "@/components/ui/select"
 import Conta from "../conta/page";
-
+import { formataNome } from "@/constants/modules";
 interface DashboardProps {
   idConta: number | undefined;
   dadosConta: DadosContaType | undefined;
 }
+
 
 export default function Dashboard({ idConta, dadosConta }: DashboardProps) {
 
   const MapaComponent = dynamic(() => import("@/components/Mapa/mapa"), { ssr: false })
 
 
-  // const iniciarDrive= ()=>{
-  //   const checkElement = setInterval( () => {
-  //     const pessoaElement = document.querySelector("#inicio");
-  //     if (pessoaElement) {
-  //       clearInterval(checkElement);
-  //       const driverObj = driver({
-  //         popoverClass: 'driverjs-theme',
-  //         doneBtnText: 'Fechar',
-  //         nextBtnText: 'Próximo',
-  //         prevBtnText: 'Anterior',
-  //         showProgress: true,
-  //         steps: [
-  //           { element: '.pessoa', popover: { title: 'Bem Vindo', description: 'Seja bem vindo ao BPA NET agora Iremos guia-lo' } },
-  //           { element: '#inicio', popover: { title: 'Cartão', description: 'Aqui você pode ver os dados do seu cartão' } },
-  //           { element: '.lev', popover: { title: 'Levantamentos', description: 'Clicado neste botão você irá para a pagina de levantamentos sem cartão' } },
-  //           { element: '.nahora', popover: { title: 'Na hora', description: 'Aqui você pode fazer trasferencias intrabancarias de uma forma rápida apartir do numero de telefone ' } },
-  //           { element: '.trans', popover: { title: 'Transações', description: 'Aqui você pode acompanhe suas transações recentes ' } },
-  //           { element: '.cambio', popover: { title: 'Cambio', description: 'Aqui você pode fazer a converção de uma moeda para outra ' } },
-  //         ]
-  //       });
-  //        driverObj.drive();
-  //     }
-  //   }, 100);
-
-  //   return () => clearInterval(checkElement);
-  // }
-
   const [page, setPage] = useState<string>("inicio");
   const useConta = useContaStore();
+  const pesquisar=(e:KeyboardEvent<HTMLInputElement>)=>{
+    if(e.key==="Enter"){
+      let valor=e.currentTarget.value;
+      valor=valor.toLowerCase();
+      setPage(valor); // 
+    }
+  }
   console.log(dadosConta)
   useEffect(() => {
     if (dadosConta) {
@@ -119,10 +101,10 @@ export default function Dashboard({ idConta, dadosConta }: DashboardProps) {
                 type="text"
                 className="block w-full pl-10 pr-3 py-2 border border-gray-300 rounded-md leading-5 bg-white placeholder-gray-500 focus:outline-none focus:ring-teal-500 focus:border-teal-500 sm:text-sm"
                 placeholder="Pesquisar BPA NET"
+                onKeyDown={pesquisar}
               />
             </div>
             <div className="flex items-center">
-                <Bell className="h-8 w-8" />
               
               <div className="ml-3 relative">
                 <Select  onValueChange={(value: string) => setPage(value)}>
@@ -136,6 +118,7 @@ export default function Dashboard({ idConta, dadosConta }: DashboardProps) {
                   </SelectTrigger>
                   <SelectContent>
                   <SelectGroup>
+                  <SelectLabel>{formataNome(dadosConta?.cliente.nome)}</SelectLabel>
                     <SelectItem value="mapa">Perfil</SelectItem>
                     <SelectItem value="Senha">Alterar Senha</SelectItem>
                   </SelectGroup>
@@ -157,9 +140,10 @@ export default function Dashboard({ idConta, dadosConta }: DashboardProps) {
           ) : page === "mapa" ? (
             <MapaComponent />
           )
-            : page === "pagamentos" ? (
-              <Pagamentos />
-            ) : page === "levantamentos" ? (
+            // : page === "pagamentos" ? (
+            //   <Pagamentos />) 
+           
+            : page === "levantamentos" ? (
               <Levantamentos dados={dadosConta} />
             ) : page === "transacoes" ? (
               <TransactionsPage />
