@@ -14,12 +14,7 @@ const LeafletRoutingMachine = dynamic(() => import("./LeafletRoutingMachine"), {
 function App() {
   const position: [number, number] = [-8.829804, 13.246245];
   const [atmMarkers, setAtmMarkers] = useState([]); // Estado para armazenar ATMs
-  const atmIcon = L.icon({
-    iconUrl: "/icons/atmD.png",
-    iconSize: [30, 41],
-    iconAnchor: [20, 41],
-    popupAnchor: [2, -40],
-  });
+ 
   const userIcon = L.icon({
     iconUrl: "/icons/eu.png", // Certifique-se de que esse caminho aponta para o seu ícone
     iconSize: [30, 41],
@@ -36,7 +31,7 @@ function App() {
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
         <Marker position={position} icon={userIcon} />
-        <LeafletGeocoder setAtmMarkers={setAtmMarkers} atmIcon={atmIcon}   />
+        <LeafletGeocoder setAtmMarkers={setAtmMarkers} />
         <LeafletRoutingMachine atmMarkers={atmMarkers} />
       </MapContainer>
     </div>

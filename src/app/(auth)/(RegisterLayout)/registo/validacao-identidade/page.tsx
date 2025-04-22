@@ -92,6 +92,14 @@ export default function IdentityValidation() {
     return false;
   }
 
+  function cleanText(text: string): string {
+    return text
+      // Corrigir "C0" para "CO"
+      .replace(/C0/g, "CO")
+      // Outras correções específicas, se necessário
+      .replace(/B0O/g, "BO")
+      .replace(/0O/g, "O");
+  }
   function testRegex() {
     setLoading(true);
     let biNumber = "";
@@ -99,14 +107,17 @@ export default function IdentityValidation() {
     // biome-ignore lint/suspicious/noAsyncPromiseExecutor: <explanation>
     return new Promise(async (resolve, reject) => {
       const response = await Tesseract.recognize(
-        URL.createObjectURL(frontFile.file || new File([], ""))
+        URL.createObjectURL(frontFile.file || new File([], "")),
+        
       );
       //const words = response.data.words;
-      const text = response.data.text; // Tesseract retorna o texto completo
+      let text = response.data.text;
 
+    // Limpar o texto reconhecido
+    text = cleanText(text);
       // Dividir o texto em palavras e procurar pelo BI
       const words = text.split(/\s+/);
-
+      console.log(words);
       if (words) {
         for (const word of words) {
           if (regexBI.test(word)) {
@@ -130,10 +141,10 @@ export default function IdentityValidation() {
             reject("BI Diferente!");
           }
         } else {
-          reject("Não foi possível verificar o seu BI!");
+          reject("Não foi possível verificar o seu BI1!");
         }
       } else {
-        reject("Não foi possível validar o seu BI!");
+        reject("Não foi possível validar o seu BI!"+biNumber);
       }
       setLoading(false);
     });
@@ -184,10 +195,10 @@ export default function IdentityValidation() {
     if (idCard && idSelfie) {
       const distance = faceapi.euclideanDistance(idCard.descriptor, idSelfie.descriptor);
       if (distance < 0.5) {
-        toast.success("Validação facial pessoas iguais!");
+        toast.success("Validação facial pessoas iguais!"+distance);
         router.push("/registo/credenciais");
       } else {
-        toast.warning("Pessoas diferentes.");
+        toast.warning("Pessoas diferentes."+distance);
         setLoading(false);
       }
     }
@@ -232,6 +243,7 @@ export default function IdentityValidation() {
     }
   }
   console.log(idCardRef.current);
+  console.log(selfieRef.current);
 
   return (
     <form className="login_form identity_verification">

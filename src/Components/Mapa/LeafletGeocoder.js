@@ -17,14 +17,26 @@ const atms = async () => {
     console.error(error);
   }
 };
+  const atmIconD = L.icon({
+    iconUrl: "/icons/atmD.png",
+    iconSize: [30, 41],
+    iconAnchor: [20, 41],
+    popupAnchor: [2, -40],
+  });
+    const atmIconN = L.icon({
+      iconUrl: "/icons/atmS.png",
+      iconSize: [30, 41],
+      iconAnchor: [20, 41],
+      popupAnchor: [2, -40],
+    });
 
-const LeafletGeocoder = ({ setAtmMarkers ,atmIcon}) => {
+const LeafletGeocoder = ({ setAtmMarkers}) => {
   const map = useMap();
 
   useEffect(() => {
     atms().then((res) => {
       const markers = res.map((el) => {
-        const marker = L.marker([el.lat, el.lon],{icon:atmIcon}).addTo(map);
+        const marker = L.marker([el.lat, el.lon],{icon:el.dinheiro? atmIconD:atmIconN}).addTo(map);
         marker.atmData = el;  // Armazena dados do ATM no marcador
         return marker;
       });

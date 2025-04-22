@@ -61,7 +61,7 @@ export default function TransactionsPage() {
         // Executa o driver
         if(!localStorage.getItem('GuiaTrasacaoeE')) {
           // Executa o driver
-          setTimeout(() => setShowGuide(true), 150);
+          setTimeout(() => setShowGuide(true), 200);
           }	
       }
     }, []);
@@ -189,7 +189,8 @@ export default function TransactionsPage() {
       <div className='bg-gray-100 p-5 rounded-xl'>
         <div className="max-w-6xl mx-auto p-4 font-sans bg-white rounded-lg">
           <div className="flex flex-col md:flex-row justify-between items-start md:items-center mb-6 gap-4">
-            <div className="flex flex-col md:flex-row gap-4 personalizar">
+            <div className=" flex flex-col md:flex-row gap-4 personalizar ">
+
               <div>
                 <label className="text-sm text-gray-600 block mb-1">Data de Início</label>
                 <div className="relative">
@@ -249,7 +250,7 @@ export default function TransactionsPage() {
 
                 </div>
               </div>
-
+             
               <button
                 onClick={handleApplyFilters}
                 className="aplicar mt-6 flex items-center gap-2 text-blue-600 hover:bg-blue-600 hover:text-white px-4 py-2 rounded-md"
